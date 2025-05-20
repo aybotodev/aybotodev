@@ -2,7 +2,6 @@
 - 📫 How to reach me: aybotodev@protonmail.com
 - 🔭 I’m currently working on Python and Flask stuff, Power Automate and SharePoint Online things...
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs! 🪲😄
-- 🤔 My old github account (ayboto, with Mr.Data from Star Trek as a profile picture) is sadly lost to another case of forgotten-credentialitis.
 <!--
 **aybotodev/aybotodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
